@@ -1,0 +1,44 @@
+h1 {
+    font-size: clamp(1.5rem, -0.6591rem + 9.2121vw, 6.25rem);
+    line-height: 1.2;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: clamp(1.125rem, -0.4091rem + 6.5455vw, 4.5rem);
+    font-weight: 600;
+}
+
+h3 {
+    font-size: clamp(1.875rem, -0.6818rem + 10.9091vw, 7.5rem);
+    font-weight: 600;
+    font-family: var(--manrope-text)
+}
+
+p {
+    font-size: clamp(0.875rem, 0.6477rem + 0.9697vw, 1.375rem);
+    font-weight: 400;
+}
+
+p.md {
+    font-size: 1.25rem;
+}
+
+p.sm {
+    font-size: 1.125rem;
+}
+
+a.btn {
+    font-size: 1.125rem;
+    font-weight: 600;
+}
+
+a .nav-link {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+a .footer-link {
+    font-size: 1.375rem;
+    font-weight: 400;
+}

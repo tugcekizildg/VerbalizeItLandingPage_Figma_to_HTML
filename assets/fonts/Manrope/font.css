@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Manrope';
+    src: url('./static/Manrope-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
